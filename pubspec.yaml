@@ -1,0 +1,40 @@
+name: insuranceproject2
+description: A new Flutter application.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  slimy_card: ^1.0.4
+  slide_drawer: ^1.0.3
+  kf_drawer: ^1.2.0
+  flutter_boom_menu: ^1.0.2
+  otp_text_field: ^1.0.2
+  razorpay_flutter: ^1.2.2
+  file_picker: ^2.1.6
+  platform: ^2.2.1
+  auto_size_text_field: ^0.1.7
+  image_picker: ^0.6.7+22
+  image_cropper: ^1.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  #   To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+
+
+
