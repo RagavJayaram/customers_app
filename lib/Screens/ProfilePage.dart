@@ -215,7 +215,7 @@ class _ProfilePageState extends State<ProfilePage> {
                                       settingValues: settingValues)));
                         },
                         color: Colors.lightBlue,
-                        child: Text('Edit'),
+                        child: Text('Edits'),
                       ),
                     ),
                   ],
